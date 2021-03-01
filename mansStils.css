@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2021. gada 1. marts, 00:30:57
+    Author     : HP
+*/
+body {background: url(images/fons.1.jpg); font-size: 40px }
+
+
+table , th, td {border: 1px black double}
+al {font-size: 50px; color: lightblue } 
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+div {
+  width: 300px;
+  border: 15px ;color: darkblue;
+  padding: 50px;
+  margin: 20px;
+} 
+div {font-size: 45px} 
+table, th, td {
+  border: 1px solid black;
+}
